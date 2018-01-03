@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "mHook",
+    "icon": "",
+    "version": "1.0.0",
+    "sdkVersion": "23.0.0",
+    "slug": "m-hook",
+    "ios": {
+      "bundleIdentifier": "com.qlebevi.mhook"
+    },
+    "android": {
+      "package": "com.qlebevi.mhook"
+    },
+    "isDetached": true,
+    "detach": {
+      "scheme": "expb8ed2333fde94bd795b31eee558498b7",
+      "androidExpoViewUrl": "https://s3.amazonaws.com/exp-exponent-view-code/android-v2.1.2-sdk23.0.0-d47f172b-1ed3-4c8f-9e48-239052c678b6.tar.gz"
+    }
+  }
+}
